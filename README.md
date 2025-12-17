@@ -155,11 +155,8 @@ const avishka = {
 
 ## 🐍 Watch My Contributions Get Eaten!
 
-<div align="center">
+![Snake animation](https://raw.githubusercontent.com/avishka137/avishka137/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://raw.githubusercontent.com/avishka137/avishka137/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 
 ---
