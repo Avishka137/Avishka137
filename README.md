@@ -18,12 +18,13 @@
 
 ## 🚀 About Me
 
-<img
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   align="right"
   alt="Coding"
   width="350"
   style="max-width:100%;"
 />
+
 
 ```javascript
 const avishka = {
