@@ -154,8 +154,7 @@ const avishka = {
 ---
 
 ## 🐍 Watch My Contributions Get Eaten!
-
-![Snake animation](https://raw.githubusercontent.com/avishka137/avishka137/output/github-contribution-grid-snake.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avishka137&theme=react-dark)
 
 
 
