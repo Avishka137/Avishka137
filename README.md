@@ -106,11 +106,11 @@ const avishka = {
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=avishka137&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka137&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=avishka137&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=your-repo-name" alt="Top Languages" />
 
 </div>
 
@@ -145,14 +145,6 @@ const avishka = {
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/avishka137/avishka137/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
