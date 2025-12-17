@@ -106,9 +106,10 @@ const avishka = {
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=avishka137&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avishka137&theme=react-dark)
 
 </div>
+
 
 
 
