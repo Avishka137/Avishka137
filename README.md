@@ -39,7 +39,7 @@ const avishka = {
     "🧩 Problem Solving"
   ],
   
-  funFact: "⚡ I turn coffee into code! Call me AV 😎"
+  funFact: "⚡ Running on logic, not caffeine ! Call me AV 😎"
 };
 ```
 
@@ -90,7 +90,6 @@ const avishka = {
 ### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
