@@ -23,8 +23,6 @@
   alt="Coding" 
   width="350" />
 
-
-
 ```javascript
 const avishka = {
   name: "Avishka Vikum Hettige",
@@ -44,7 +42,7 @@ const avishka = {
     "🧩 Problem Solving"
   ],
   
-  funFact: "⚡ Running on logic, not caffeine ! Call me AV 😎"
+  funFact: "⚡ Running on logic, not caffeine! Call me AV 😎"
 };
 ```
 
@@ -103,20 +101,6 @@ const avishka = {
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avishka137&theme=react-dark)
-
-</div>
-
-
-
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -127,14 +111,30 @@ const avishka = {
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=avishka137&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avishka137&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=avishka137&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
 
 ## 💭 Random Dev Quote
 
@@ -146,10 +146,13 @@ const avishka = {
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avishka137&theme=react-dark)
+## 🐍 Contribution Snake
 
+<div align="center">
 
+![Snake animation](https://raw.githubusercontent.com/avishka137/avishka137/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
