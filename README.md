@@ -104,11 +104,11 @@ const avishka = {
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=avishka137)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=avishka137&theme=radical)
+
+</div>
 
 
 
