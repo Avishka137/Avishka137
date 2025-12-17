@@ -135,13 +135,6 @@ const avishka = {
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  
-[![Avishka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avishka137&theme=react-dark&hide_border=true&area=true)](https://github.com/avishka137)
-
-</div>
-
----
 
 ## 💭 Random Dev Quote
 
