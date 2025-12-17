@@ -13,7 +13,6 @@
 
 ## 🚀 About Me
 
-```javascript
 <script>
 const avishka = {
     location: "Sri Lanka 🇱🇰",
@@ -29,8 +28,8 @@ const avishka = {
     askMeAbout: ["Full Stack Development", "MERN Stack", "UI/UX Design", 
                   "Web Animations", "Problem Solving"],
     funFact: "Call me AV! 😎"
-};</script>
-```
+};
+</script>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
