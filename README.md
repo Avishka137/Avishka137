@@ -110,7 +110,8 @@ const avishka = {
 
 <br/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&card_width=450&hide=jupyter%20notebook" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Donut" />
 
 </div>
 
@@ -143,8 +144,6 @@ const avishka = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
 
 ---
 
