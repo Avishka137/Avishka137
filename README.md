@@ -110,7 +110,7 @@ const avishka = {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=your-repo-name" alt="Top Languages" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&card_width=450&hide=jupyter%20notebook" alt="Top Languages" />
 
 </div>
 
