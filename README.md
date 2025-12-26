@@ -6,12 +6,6 @@
 
 ### 🎓 Undergraduate @ SLIIT | 💼 Building the Web, One Line at a Time
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=avishka137&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/avishka137?label=Followers&style=flat-square&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/avishka137?label=Stars&style=flat-square&color=yellow" alt="stars" />
-</p>
-
 </div>
 
 ---
