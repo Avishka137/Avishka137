@@ -46,7 +46,9 @@ const avishka = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" align="right" width="60">
+<p align="right">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</p>
 
 **<p align="right">🎯 Always Learning, Always Building</p>**
 
