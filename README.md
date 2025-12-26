@@ -45,7 +45,7 @@ const avishka = {
 
 </div>
 
-<div align="right">
+<div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
