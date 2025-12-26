@@ -41,15 +41,10 @@ const avishka = {
 };
 ```
 
-<br clear="both">
-
----
 <div align="center">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  alt="Coding" 
-  width="450" />
-
+alt="Coding" 
+width="350" />
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 **🎯 Always Learning, Always Building**
