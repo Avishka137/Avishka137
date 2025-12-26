@@ -18,21 +18,10 @@
 
 ## 🚀 About Me
 
-<div>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
   align="right" 
   alt="Coding" 
   width="350" />
-
-<p align="right" width="350">
-  <br/>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <br/>
-  <strong>🎯 Always Learning, Always Building</strong>
-  <br/>
-  <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</em>
-</p>
-</div>
 
 ```javascript
 const avishka = {
@@ -56,6 +45,12 @@ const avishka = {
   funFact: "⚡ Running on logic, not caffeine! Call me AV 😎"
 };
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" align="right" width="60">
+
+**<p align="right">🎯 Always Learning, Always Building</p>**
+
+**<p align="right"><em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</em></p>**
 
 <br clear="both">
 
