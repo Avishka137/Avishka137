@@ -32,11 +32,11 @@ const avishka = {
   collaborateOn: "👯 Open source projects & innovative web apps",
   
   askMeAbout: [
-    "💻 Full Stack Development",
-    "⚛️ React & MERN Stack", 
-    "🎨 UI/UX Design",
-    "✨ Web Animations",
-    "🧩 Problem Solving"
+"💻 Full Stack Development",
+"⚛️ MERN Stack",
+"🌐 WordPress Development",
+"🎨 UI/UX Design",
+"🧩 Problem Solving"
   ],
   
   funFact: "⚡ Running on logic, not caffeine! Call me AV 😎"
