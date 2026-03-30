@@ -111,8 +111,8 @@ const avishka = {
 ---
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Donut" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Donut" />
 
 </div>
 
