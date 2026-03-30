@@ -113,20 +113,7 @@ const avishka = {
 
 <table align="center">
   <tr>
-    <td>
-      🚀 Featured Projects
-
-Optimate (Mobile App)
-Accessibility app for visually impaired users
-Voice-assisted navigation + task help
-Tech: Kotlin, Firebase
-[Your Real MERN Project]
-Describe real problem solved
-Add GitHub link
-[Your System Project]
-Employee system / backend project
-Add features + tech stack
-    </td>
+   
     <td>
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
     </td>
