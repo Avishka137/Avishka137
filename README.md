@@ -109,15 +109,7 @@ const avishka = {
 </div>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=avishka137&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=avishka137&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
+<br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages Donut" />
@@ -135,7 +127,21 @@ const avishka = {
 </div>
 
 ---
+🚀 Featured Projects
 
+1. Optimate (Mobile App)
+- Accessibility app for visually impaired users
+- Voice-assisted navigation + task help
+- Tech: Kotlin, Firebase
+
+2. [Your Real MERN Project]
+- Describe real problem solved
+- Add GitHub link
+
+3. [Your System Project]
+- Employee system / backend project
+- Add features + tech stack
+  
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -143,18 +149,6 @@ const avishka = {
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=avishka137&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 <div align="center">
   
