@@ -110,7 +110,11 @@ const avishka = {
 
 ---
 <br/>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+   <div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=avishka137&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&hide=contribs" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka137&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="150" src="https://streak-stats.demolab.com?user=avishka137&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
     
 
 </div>
